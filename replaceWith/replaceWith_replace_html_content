@@ -1,0 +1,5 @@
+# The replaceWith() method replaces selected elements with new content.
+
+Syntax:
+
+$(selector).replaceWith(content,function(index))
